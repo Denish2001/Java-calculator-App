@@ -46,7 +46,7 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 ---
 
 ### Author
-Developed by Otieno Atuti
+Developed by Denish Awajo
 
 
 ## Getting Started
